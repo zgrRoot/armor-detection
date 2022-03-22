@@ -39,7 +39,7 @@ IV．把灯条的相关数据带入循环筛选抉择，两两匹配获得装甲
 V．对匹配出的装甲板进行筛选，计算装甲板的得分比较出得分最高者，追踪得分最高者的中心位置；<br>
 VI．在main.cpp中设置函数，计算fps；<br> 
 <div align=center>
-<img src="https://github.com/zgrRoot/armor-detection/new/master/final.jpg" width = "400" alt="结果图"/>
+<img src="https://github.com/zgrRoot/armor-detection/blob/master/final.jpg" width = "400" alt="结果图"/>
 </div> 
 
  
