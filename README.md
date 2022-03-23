@@ -38,6 +38,8 @@ III．对灯条轮廓进行适当膨胀，筛除较小的轮廓，对轮廓进�
 IV．把灯条的相关数据带入循环筛选抉择，两两匹配获得装甲板信息；<br>
 V．对匹配出的装甲板进行筛选，计算装甲板的得分比较出得分最高者，追踪得分最高者的中心位置；<br>
 VI．在main.cpp中设置函数，计算fps；<br> 
-![结果图](https://github.com/zgrRoot/armor-detection/blob/master/final.jpg)
+<div align=center>
+<img src="https://github.com/zgrRoot/armor-detection/raw/master/final.png" width = "400" alt="结果图"/>
+</div> 
 
  
